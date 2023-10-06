@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "SMYCKA 스뮈카",
+      "info": "조화부케, 핑크, 25 cm",
+      "price": 7500,
+      "img": "https://www.ikea.com/kr/ko/images/products/smycka-artificial-bouquet-pink__0903260_pe685252_s5.jpg?f=xxs",
+      "category": "flora"
+    },
+    {
+      "id": 2,
+      "name": "PAPPERSBJÖRK 파페르스비에르크",
+      "info": "유리컵, 혼합 색상, 30 cl",
+      "price": 16900,
+      "img": "https://www.ikea.com/kr/ko/images/products/pappersbjoerk-glass-mixed-colours__1156920_pe887346_s5.jpg?f=xxxs",
+      "category": "kitchen"
+    },
+    {
+      "id": 3,
+      "name": "LUNNOM 룬놈",
+      "info": "LED전구 E26 80루멘, 튜브 모양 브라운투명유리",
+      "price": 9900,
+      "img": "https://www.ikea.com/kr/ko/images/products/lunnom-led-bulb-e26-80-lumen-tube-shaped-brown-clear-glass__0914648_pe784182_s5.jpg?f=xxxs",
+      "category": "lamp"
+    },
+    {
+      "id": 4,
+      "name": "FEJKA 페이카",
+      "info": "인조식물, 실내외겸용 대나무 , 23 cm",
+      "price": 74900,
+      "img": "https://www.ikea.com/kr/ko/images/products/fejka-artificial-potted-plant-in-outdoor-bamboo__1079585_pe857616_s5.jpg?f=xxs",
+      "category": "flora"
+    },
+    {
+      "id": 5,
+      "name": "GLIMMA 글림마",
+      "info": "미니양초",
+      "price": 8500,
+      "img": "https://www.ikea.com/kr/ko/images/products/glimma-unscented-tealight__1059580_pe849678_s5.jpg?f=xxs",
+      "category": "candle"
+    },
+    {
+      "id": 6,
+      "name": "FAVORISERA 파보리세라",
+      "info": "식기12종, 화이트",
+      "price": 19900,
+      "img": "https://www.ikea.com/kr/ko/images/products/favorisera-12-piece-service-white__1223320_pe914605_s5.jpg?f=xxxs",
+      "category": "kitchen"
+    },
+    {
+      "id": 7,
+      "name": "SOMMARLÅNKE 솜말롱케",
+      "info": "LED체인조명12등, 실외용/배터리식 화이트",
+      "price": 14900,
+      "img": "https://www.ikea.com/kr/ko/images/products/sommarlanke-led-lighting-chain-with-12-lights-outdoor-battery-operated-white__0931568_pe793862_s5.jpg?f=xxxs",
+      "category": "lamp"
+    },
+    {
+      "id": 8,
+      "name": "BORRBY 보르뷔",
+      "info": "양초L랜턴, 실내외겸용 블랙, 28 cm",
+      "price": 9900,
+      "img": "https://www.ikea.com/kr/ko/images/products/borrby-lantern-for-block-candle-in-outdoor-black__0902748_pe586326_s5.jpg?f=xxs",
+      "category": "candle"
+    },
+    {
+      "id": 9,
+      "name": "PILSKOTT 필스코트",
+      "info": "LED플로어스탠드, 스마트 블랙",
+      "price": 99900,
+      "img": "https://www.ikea.com/kr/ko/images/products/pilskott-led-floor-lamp-smart-black__1077628_pe856959_s5.jpg?f=xxs",
+      "category": "lamp"
+    }
+  ]
+}
